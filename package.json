@@ -1,7 +1,7 @@
 {
-  "name": "vue-loader-example",
-  "version": "3.0.0",
-  "description": "Example using Webpack with vue-loader",
+  "name": "code-with-mrdream",
+  "version": "1.0.0",
+  "description": "稀土掘金前端代码测试",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --config build/webpack.dev.config.js",
